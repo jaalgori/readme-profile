@@ -56,3 +56,6 @@ Este proyecto busca implementar prácticas seguras desde el diseño hasta la imp
 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/javier-alejandro-gonzález-rivas-155138240)  
 - ✉️ **Correo:** [jaalgori@gmai.com](mailto:jaalgori@gmai.com)
+
+También mantengo un perfil académico donde publico proyectos y prácticas desarrolladas durante mis estudios universitarios.  
+🔗 [github.com/jaalgori0](https://github.com/jaalgori0)
